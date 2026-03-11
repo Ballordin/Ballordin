@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Tiago Oliveira! 👋
 
-<!--
-**Ballordin/Ballordin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Electrical and Computer Engineering Student
+Specializing in **Embedded Systems, Industrial Automation, Robotics, and Power Systems**. I bridge the gap between low-level hardware design and high-level intelligent software control.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Embedded Systems** | `C/C++`, `Bare-metal Firmware`, `Altium Designer (PCB)`, `Microcontrollers` |
+| **Automation** | `PLC (Ladder/ST)`, `Omron Sysmac Studio`, `HMI Design`, `Factory I/O` |
+| **Robotics & AI** | `MATLAB`, `Computer Vision (HSV)`, `Mobile Robot Kinematics`, `Path Planning` |
+| **Power Systems** | `AutoCAD Electrical`, `RTIEBT Compliance`, `Industrial Power Distribution` |
+
+---
+
+### 🚀 Featured Projects
+
+* **[Embedded Morse System](https://github.com/Ballordin/Morse-Code-Converter)**: Low-level firmware and PCB design for real-time signal processing.
+* **[Industrial Automation](https://github.com/Ballordin/Industrial-Automation-Production-Line)**: Digital Twin integration with real-time PLC industrial control.
+* **[Autonomous Navigation](https://github.com/Ballordin/ROBOTICS-Autonomous-Robot-Navigation-EV3)**: Autonomous mobile robotics using vision and kinematic modeling.
+
+---
+
+### 📊 GitHub Stats
+![Ballordin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ballordin&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ballordin&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect
+* **LinkedIn:** [linkedin.com/in/tiago-oliveira-25547](https://linkedin.com/in/tiago-oliveira-25547) 
+* **Email:** tiagooliveira0512@gmail.com
+
+---
+*"Engineering is about turning complex hardware into intelligent, reliable systems."*
