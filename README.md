@@ -30,7 +30,7 @@ Specializing in **Embedded Systems, Industrial Automation, Robotics, and Power S
 ---
 
 ### 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/tiago-oliveira-25547](https://linkedin.com/in/tiago-oliveira-25547) 
+* **LinkedIn:** [linkedin.com/in/tiago-oliveira](https://www.linkedin.com/in/tiagosousaoliveira/) 
 * **Email:** tiagooliveira0512@gmail.com
 
 ---
