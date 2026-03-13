@@ -18,7 +18,7 @@ Specializing in **Embedded Systems, Industrial Automation, Robotics, and Power S
 
 ### 🚀 Featured Projects
 
-* **[Embedded Morse System](https://github.com/Ballordin/Morse-Code-Converter)**: Low-level firmware and PCB design for real-time signal processing.
+* **[Embedded Morse System](https://github.com/Ballordin/HARDWARE-DEVELOPMENT-Morse-Code-Converter)**: Low-level firmware and PCB design for real-time signal processing.
 * **[Industrial Automation](https://github.com/Ballordin/Industrial-Automation-Production-Line)**: Digital Twin integration with real-time PLC industrial control.
 * **[Autonomous Navigation](https://github.com/Ballordin/ROBOTICS-Autonomous-Robot-Navigation-EV3)**: Autonomous mobile robotics using vision and kinematic modeling.
 
