@@ -1,11 +1,11 @@
 # Hi there, I'm Tiago Oliveira! 👋
 
-### 🎓 Electrical and Computer Engineering Student
+### Electrical and Computer Engineering Student
 Specializing in **Embedded Systems, Industrial Automation, Robotics, and Power Systems**. I bridge the gap between low-level hardware design and high-level intelligent software control.
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -16,7 +16,7 @@ Specializing in **Embedded Systems, Industrial Automation, Robotics, and Power S
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 * **[Embedded Morse System](https://github.com/Ballordin/HARDWARE-DEVELOPMENT-Morse-Code-Converter)**: Low-level firmware and PCB design for real-time signal processing.
 * **[Industrial Automation](https://github.com/Ballordin/AUTOMATION-Automated-Integration_Expedition-Factory)**: Digital Twin integration with real-time PLC industrial control.
@@ -24,12 +24,12 @@ Specializing in **Embedded Systems, Industrial Automation, Robotics, and Power S
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![Ballordin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ballordin&show_icons=true&theme=radical)
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 * **LinkedIn:** [linkedin.com/in/tiago-oliveira](https://www.linkedin.com/in/tiagosousaoliveira/) 
 * **Email:** tiagooliveira0512@gmail.com
 
